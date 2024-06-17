@@ -15,4 +15,3 @@ pom.xml.asc
 .clj-kondo/
 .idea/
 *.iml
-src/utils.clj
